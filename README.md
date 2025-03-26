@@ -64,7 +64,7 @@ The script will detect and recognize faces in real-time using your webcam.
 - Use deep learning for better results.
 
 ## Author
-Your Name (Replace with your name)
+RAMESH LALITH KUMAR
 
 ---
 This documentation ensures a smooth setup and execution of the project.
